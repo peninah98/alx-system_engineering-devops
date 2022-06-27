@@ -1,0 +1,4 @@
+#!/bin/bash
+cp -v hosts{,.bak} 
+# OLD_IPA=$(grep '#PUBLIC IPA' hosts | awk '{print $1}') 
+# sed -i "s/$OLD_IPA/$NEW_IPA/" hosts 
