@@ -1,2 +1,2 @@
 #!/bin/bash
-file /tmp /iamafile
+mkdir my_dir chmood 751
